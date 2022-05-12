@@ -1,0 +1,11 @@
+{
+  "type": "forge:ore_shapeless",
+  "group": "pineapple:pineapple",
+  "result": { "item": "pineapple:nasty_apple_cake" },
+  "ingredients": [
+    { "item": "pasterdream:pdbadapple" },
+    { "item": "minecraft:milk_bucket" },
+    { "item": "minecraft:sugar" },
+    { "item": "minecraft:wheat" }
+  ]
+}

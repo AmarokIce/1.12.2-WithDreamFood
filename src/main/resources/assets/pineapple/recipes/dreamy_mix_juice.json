@@ -1,0 +1,12 @@
+{
+  "type": "forge:ore_shapeless",
+  "group": "pineapple:pineapple",
+  "result": { "item": "pineapple:dreamy_mix_juice" },
+  "ingredients": [
+    { "item": "pasterdream:dreamjuice" },
+    { "item": "pasterdream:pdegg_2" },
+    { "item": "minecraft:sugar" },
+    { "item": "pasterdream:starfruit" },
+    { "item": "pasterdream:dreamfruit" }
+  ]
+}

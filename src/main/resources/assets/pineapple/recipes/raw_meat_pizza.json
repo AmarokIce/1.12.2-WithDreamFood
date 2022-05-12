@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shapeless",
+  "group": "pineapple:pineapple",
+  "result": { "item": "pineapple:raw_dreamy_pizza" },
+  "ingredients": [
+    { "item": "minecraft:mutton" },
+    { "item": "minecraft:beef" },
+    { "item": "minecraft:mutton" },
+    { "item": "pineapple:raw_pizza" },
+    { "item": "pasterdream:salt" },
+    { "item": "pasterdream:salt" }
+  ]
+}

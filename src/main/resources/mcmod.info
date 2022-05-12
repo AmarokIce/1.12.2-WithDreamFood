@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "pineapple",
+    "name": "Dreaming With Pineapples",
+    "description": "Good Night!",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Someoneice"],
+    "credits": "Someoneice",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

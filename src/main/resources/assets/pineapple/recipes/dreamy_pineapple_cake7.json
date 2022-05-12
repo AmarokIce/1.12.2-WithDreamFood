@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "group": "pineapple:pineapple",
+  "result": { "item": "pineapple:dreamy_pineapple_cake7" },
+  "pattern": [
+    "JPJ",
+    "MEM",
+    "WWW"
+  ],
+  "key": {
+    "J": { "item": "pineapple:pineapple_jar"},
+    "P": { "item": "pineapple:dreamy_pineapple"},
+    "M": { "item": "pasterdream:pdmanadust_3"},
+    "E": { "item": "pasterdream:pdegg_2"},
+    "W": { "item": "minecraft:wheat"}
+  }
+}

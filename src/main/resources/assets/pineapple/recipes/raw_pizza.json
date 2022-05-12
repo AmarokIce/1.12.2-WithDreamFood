@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shapeless",
+  "group": "pineapple:pineapple",
+  "result": { "item": "pineapple:raw_pizza" },
+  "ingredients": [
+    { "item": "minecraft:wheat" },
+    { "item": "minecraft:wheat" },
+    { "item": "minecraft:wheat" },
+    { "item": "pasterdream:salt" },
+    { "item": "pineapple:cream_cheese" },
+    { "item": "pasterdream:salt" }
+  ]
+}

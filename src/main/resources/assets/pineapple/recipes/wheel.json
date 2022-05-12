@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "group": "pineapple:pineapple",
+  "result": { "item": "pineapple:wheel" },
+  "pattern": [
+    "  I",
+    " I ",
+    "R  "
+  ],
+  "key": {
+    "R": { "item": "minecraft:cobblestone"},
+    "I": { "item": "minecraft:stick"}
+  }
+}

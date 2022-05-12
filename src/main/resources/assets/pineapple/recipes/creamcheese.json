@@ -1,0 +1,11 @@
+{
+  "type": "forge:ore_shapeless",
+  "group": "pineapple:pineapple",
+  "result": { "item": "pineapple:cream_cheese" },
+  "ingredients": [
+    { "item": "pineapple:cream" },
+    { "item": "pineapple:cream" },
+    { "item": "minecraft:sugar" },
+    { "item": "pasterdream:grease_1" }
+  ]
+}

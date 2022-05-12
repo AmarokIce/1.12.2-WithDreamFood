@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shapeless",
+  "group": "pineapple:pineapple",
+  "result": { "item": "pineapple:galaxy_pie" },
+  "ingredients": [
+    { "item": "minecraft:milk_bucket" },
+    { "item": "minecraft:wheat" },
+    { "item": "pasterdream:salt" },
+    { "item": "pasterdream:pdegg_2" },
+    { "item": "pasterdream:starfruit" },
+    { "item": "pasterdream:starfruit" }
+  ]
+}

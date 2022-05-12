@@ -1,0 +1,12 @@
+{
+  "type": "forge:ore_shapeless",
+  "group": "pineapple:pineapple",
+  "result": { "item": "pineapple:small_cake" },
+  "ingredients": [
+    { "item": "pineapple:cream" },
+    { "item": "pineapple:cream" },
+    { "item": "minecraft:egg" },
+    { "item": "minecraft:sugar" },
+    { "item": "minecraft:wheat" }
+  ]
+}

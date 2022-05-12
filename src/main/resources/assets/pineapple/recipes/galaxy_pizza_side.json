@@ -1,0 +1,9 @@
+{
+  "type": "forge:ore_shapeless",
+  "group": "pineapple:pineapple",
+  "result": { "item": "pineapple:galaxy_pizza_side" ,"count": 6},
+  "ingredients": [
+    { "item": "pineapple:wheel" },
+    { "item": "pineapple:galaxy_pizza" }
+  ]
+}

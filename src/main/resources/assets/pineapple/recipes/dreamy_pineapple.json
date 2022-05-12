@@ -1,0 +1,11 @@
+{
+  "type": "forge:ore_shapeless",
+  "group": "pineapple:pineapple",
+  "result": { "item": "pineapple:dreamy_pineapple" },
+  "ingredients": [
+    { "item": "pasterdream:dreamfruit" },
+    { "item": "pasterdream:dreamfruit" },
+    { "item": "pasterdream:dreamjuice" },
+    { "item": "pasterdream:pdmanadust_2" }
+  ]
+}

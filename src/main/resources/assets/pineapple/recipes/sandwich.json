@@ -1,0 +1,12 @@
+{
+  "type": "forge:ore_shapeless",
+  "group": "pineapple:pineapple",
+  "result": { "item": "pineapple:sandwich" },
+  "ingredients": [
+    { "item": "minecraft:bread" },
+    { "item": "minecraft:sugar" },
+    { "item": "pasterdream:pdegg_2" },
+    { "item": "pasterdream:pdegg_2" },
+    { "item": "pineapple:dreamy_jelly" }
+  ]
+}

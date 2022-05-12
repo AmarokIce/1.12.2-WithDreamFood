@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shapeless",
+  "group": "pineapple:pineapple",
+  "result": { "item": "pineapple:mushroom_soup" },
+  "ingredients": [
+    { "item": "pasterdream:starplant_3" },
+    { "item": "pasterdream:starplant_3" },
+    { "item": "pineapple:sweet_cream" },
+    { "item": "pasterdream:cookseed" },
+    { "item": "minecraft:egg" },
+    { "item": "minecraft:bowl" }
+  ]
+}

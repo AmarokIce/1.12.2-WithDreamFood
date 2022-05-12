@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shapeless",
+  "group": "pineapple:pineapple",
+  "result": { "item": "pineapple:raw_dreamy_pizza" },
+  "ingredients": [
+    { "item": "pasterdream:dreamfruit" },
+    { "item": "pasterdream:dreamfruit" },
+    { "item": "pasterdream:dreamfruit" },
+    { "item": "pineapple:raw_pizza" },
+    { "item": "pineapple:cream_cheese" },
+    { "item": "pineapple:cream_cheese" }
+  ]
+}

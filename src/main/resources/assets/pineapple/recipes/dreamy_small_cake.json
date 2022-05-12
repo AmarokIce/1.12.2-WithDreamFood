@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shapeless",
+  "group": "pineapple:pineapple",
+  "result": { "item": "pineapple:dreamy_small_cake" },
+  "ingredients": [
+    { "item": "pineapple:sweet_cream" },
+    { "item": "pineapple:sweet_cream" },
+    { "item": "pasterdream:pdmanadust_2" },
+    { "item": "pasterdream:pdegg_2" },
+    { "item": "minecraft:sugar" },
+    { "item": "minecraft:wheat" }
+  ]
+}

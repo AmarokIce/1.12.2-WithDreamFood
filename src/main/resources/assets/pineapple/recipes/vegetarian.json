@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shapeless",
+  "group": "pineapple:pineapple",
+  "result": { "item": "pineapple:vegetarian" },
+  "ingredients": [
+    { "item": "pasterdream:cookseed" },
+    { "item": "pasterdream:pdflower_item_1" },
+    { "item": "pasterdream:pdflower_item_1" },
+    { "item": "pasterdream:pdmanadust_2" },
+    { "item": "minecraft:bowl" },
+    { "item": "minecraft:wheat" }
+  ]
+}
