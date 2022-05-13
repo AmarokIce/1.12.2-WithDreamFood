@@ -1,6 +1,6 @@
 package club.someoneice.dreampineallpe.init;
 
-import club.someoneice.dreampineallpe.Dreamlet;
+import club.someoneice.dreampineallpe.item.FoodItem;
 import club.someoneice.dreampineallpe.item.ItemItems;
 import club.someoneice.dreampineallpe.item.Pizza_Wheel;
 import net.minecraft.client.Minecraft;
@@ -9,6 +9,7 @@ import net.minecraft.init.Items;
 import net.minecraft.init.MobEffects;
 import net.minecraft.item.EnumAction;
 import net.minecraft.item.Item;
+import net.minecraft.item.ItemBlock;
 import net.minecraft.item.ItemStack;
 import net.minecraft.potion.PotionEffect;
 
@@ -73,6 +74,8 @@ public class ItemList {
 
     public static Item toolPizzaWheel;
 
+    public static ItemBlock PizzaBlock;
+
     // Make The New Item in Game?¿
     public static void init() {
         // For Return Item.
@@ -135,6 +138,8 @@ public class ItemList {
         foodDreamyMixJuice = new FoodItem("dreamy_mix_juice", 8, 1.2f, false, true, EnumAction.DRINK);
 
         toolPizzaWheel = new Pizza_Wheel("wheel");
+
+        //PizzaBlock = (ItemBlock) new ItemBlock(BlockList.PizzaBlock).setRegistryName(BlockList.PizzaBlock.getRegistryName());
     }
 
     public static void renderRegistry() {

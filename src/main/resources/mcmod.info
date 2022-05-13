@@ -11,6 +11,11 @@
     "credits": "Someoneice",
     "logoFile": "",
     "screenshots": [],
-    "dependencies": []
+    "dependencies": [],
+    "required":[
+      "paster_fix",
+      "pasterdream"
+    ],
+    "useDependencyInformation": "true"
   }
 ]

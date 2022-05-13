@@ -1,6 +1,7 @@
-package club.someoneice.dreampineallpe.init;
+package club.someoneice.dreampineallpe.item;
 
 import club.someoneice.dreampineallpe.Dreamlet;
+import club.someoneice.dreampineallpe.init.ItemList;
 import net.minecraft.advancements.CriteriaTriggers;
 import net.minecraft.entity.EntityLivingBase;
 import net.minecraft.entity.player.EntityPlayer;
