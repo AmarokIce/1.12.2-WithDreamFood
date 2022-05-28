@@ -3,13 +3,14 @@ package club.someoneice.dreampineallpe.init;
 import club.someoneice.dreampineallpe.item.FoodItem;
 import club.someoneice.dreampineallpe.item.ItemItems;
 import club.someoneice.dreampineallpe.item.Pizza_Wheel;
+import club.someoneice.paster_fix.paster_fix;
+import club.someoneice.paster_fix.tool.ItemItem;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.init.Items;
 import net.minecraft.init.MobEffects;
 import net.minecraft.item.EnumAction;
 import net.minecraft.item.Item;
-import net.minecraft.item.ItemBlock;
 import net.minecraft.item.ItemStack;
 import net.minecraft.potion.PotionEffect;
 
@@ -74,7 +75,8 @@ public class ItemList {
 
     public static Item toolPizzaWheel;
 
-    public static ItemBlock PizzaBlock;
+    public static Item seedPineappleSeed;
+    public static Item foodPineappleFlout;
 
     // Make The New Item in Game?¿
     public static void init() {
@@ -83,8 +85,8 @@ public class ItemList {
         ItemStack bowl = new ItemStack(Items.BOWL);
         ItemStack glass = new ItemStack(Items.GLASS_BOTTLE);
 
-        Meteorite = new FoodItem("meteorite", 0, 0f, false, true, 4, EnumAction.EAT);
-        DragonJar = new FoodItem("dragon_jar", 0, 0f, false, true, 4, EnumAction.EAT);
+        Meteorite = new ItemItems("meteorite");
+        DragonJar = new ItemItems("dragon_jar");
 
         foodCream = new FoodItem("cream", 1, 2.0F, false, true,16, EnumAction.EAT);
         foodSweetCream = new FoodItem("sweet_cream", 2, 1.0f, false, true,16, EnumAction.EAT);
@@ -138,8 +140,6 @@ public class ItemList {
         foodDreamyMixJuice = new FoodItem("dreamy_mix_juice", 8, 1.2f, false, true, EnumAction.DRINK);
 
         toolPizzaWheel = new Pizza_Wheel("wheel");
-
-        //PizzaBlock = (ItemBlock) new ItemBlock(BlockList.PizzaBlock).setRegistryName(BlockList.PizzaBlock.getRegistryName());
     }
 
     public static void renderRegistry() {

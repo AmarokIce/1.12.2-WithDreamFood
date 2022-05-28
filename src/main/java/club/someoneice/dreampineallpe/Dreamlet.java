@@ -4,6 +4,7 @@ import club.someoneice.dreampineallpe.init.BlockList;
 import club.someoneice.dreampineallpe.init.BlockRegister;
 import club.someoneice.dreampineallpe.init.ItemList;
 import club.someoneice.dreampineallpe.init.ItemRegister;
+import club.someoneice.dreampineallpe.recipes.Brewing;
 import club.someoneice.dreampineallpe.recipes.Cooking;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.ItemStack;
@@ -61,6 +62,7 @@ public class Dreamlet {
     MinecraftForge.EVENT_BUS.register(new ItemRegister());
     // MinecraftForge.EVENT_BUS.register(new BlockRegister());
     MinecraftForge.EVENT_BUS.register(new Cooking());
+    MinecraftForge.EVENT_BUS.register(new Brewing());
 }
 
     @EventHandler

@@ -6,6 +6,7 @@
     { "item": "minecraft:milk_bucket" },
     { "item": "minecraft:milk_bucket" },
     { "item": "minecraft:sugar" },
-    { "item": "pasterdream:grease_1" }
+    { "item": "pasterdream:grease_1" },
+    {"type": "forge:ore_dict", "ore": "toolMortar"}
   ]
 }
